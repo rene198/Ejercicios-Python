@@ -1,2 +1,2 @@
 # Ejercicios-Python
-Códigos desarrollado en Programación II, 5°2° TIPP - E.E.T N°1 "Gral. Savio"
+Se crea el repositorio para ir mostrando los trabajos que se van desarrollando en el aula y al mismo tiempo disponer de un portafolio como vidriera de los trabajos abordado en un paso por la docencia en Programación II, con el lenguaje Python. Es un paso disruptivo, que pretende orientar a los estudiantes a tener su propio portafolio, con sus propios ejercicios. Bienvenido a Github grupo.
